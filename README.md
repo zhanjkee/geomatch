@@ -24,6 +24,13 @@
 - Interoperability: The system should be able to integrate with other systems and technologies as needed.
 - Localization: The system should be able to support multiple languages and be able to adapt to different cultural norms.
 
+## Back-Of-The-Envelope-Calculations
+
+- App development: 100000-150000$
+- Server costs: 1000$ per month (avg)
+- Marketing: 20000$ per month (avg)
+- Salaries: 100000$ per year for one developer (avg)
+
 ## System Architecture
 ![Components](img/geomatch-components.png)
 
